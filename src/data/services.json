@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Bridal Makeup",
+    "description": "Flawless, camera-ready bridal look that lasts from the first light to the last dance.",
+    "price": "From ₹8,000",
+    "features": [
+      "Waterproof, long-lasting finish",
+      "HD & camera-ready makeup",
+      "Premium luxury products",
+      "Trial session available"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Party Makeup",
+    "description": "Stand out at any event with elegant and sophisticated party makeup tailored to your style.",
+    "price": "From ₹3,500",
+    "features": [
+      "Flawless base",
+      "Customized eye makeup",
+      "Long-lasting setting",
+      "Hairstyling included"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Airbrush Makeup",
+    "description": "Achieve a perfectly smooth, lightweight, and natural-looking finish ideal for high-definition photography.",
+    "price": "From ₹12,000",
+    "features": [
+      "Lightweight feel",
+      "Stays perfect for 15+ hours",
+      "Sweat and tear resistant",
+      "Perfect for oily/combination skin"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Hairstyling",
+    "description": "From classic updos to modern textured waves, get the perfect hairstyle for any occasion.",
+    "price": "From ₹1,500",
+    "features": [
+      "Bridal updos",
+      "Soft curls & waves",
+      "Hair extensions styling",
+      "Premium hair accessories setup"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Combo Packages",
+    "description": "Comprehensive beauty packages covering makeup, hair, and draping for all your wedding functions.",
+    "price": "From ₹15,000",
+    "features": [
+      "Pre-wedding + Wedding day combo",
+      "Makeup + Hair + Draping",
+      "Touch-up kit included",
+      "On-location service"
+    ]
+  }
+]
