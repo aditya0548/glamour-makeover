@@ -1,0 +1,27 @@
+
+> my-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1836ms
+ ○ Compiling / ...
+ ✓ Compiled / in 7.4s (700 modules)
+ ✓ Compiled in 933ms (313 modules)
+ GET / 200 in 8510ms
+ ⨯ The requested resource isn't a valid image for /images/transformations/gallery-6.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/before-1.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/after-1.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/after-2.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/before-2.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/before-3.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/after-3.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/gallery-1.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/gallery-2.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/gallery-3.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/gallery-4.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/gallery-5.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/gallery-6.jpg received null
+ ⨯ The requested resource isn't a valid image for /images/transformations/gallery-7.jpg received null

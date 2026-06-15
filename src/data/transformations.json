@@ -1,0 +1,79 @@
+{
+  "flipCards": [
+    {
+      "id": "1",
+      "beforeImg": "/images/transformations/before-1.jpg",
+      "afterImg": "/images/transformations/after-1.jpg",
+      "beforeAlt": "Before transformation",
+      "afterAlt": "Bridal Glow transformation",
+      "label": "Bridal Glow"
+    },
+    {
+      "id": "2",
+      "beforeImg": "/images/transformations/before-2.jpg",
+      "afterImg": "/images/transformations/after-2.jpg",
+      "beforeAlt": "Before transformation",
+      "afterAlt": "Traditional Elegance transformation",
+      "label": "Traditional Elegance"
+    },
+    {
+      "id": "3",
+      "beforeImg": "/images/transformations/before-3.jpg",
+      "afterImg": "/images/transformations/after-3.jpg",
+      "beforeAlt": "Before transformation",
+      "afterAlt": "Radiant Bride transformation",
+      "label": "Radiant Bride"
+    }
+  ],
+  "galleryPhotos": [
+    {
+      "id": "gallery-1",
+      "src": "/images/transformations/gallery-1.jpg",
+      "alt": "Joyful laughing outdoor bride",
+      "label": "Bridal Joy",
+      "category": "Bridal"
+    },
+    {
+      "id": "gallery-2",
+      "src": "/images/transformations/gallery-2.jpg",
+      "alt": "Teal saree side pose with mehndi",
+      "label": "Elegant Pose",
+      "category": "Bridal"
+    },
+    {
+      "id": "gallery-3",
+      "src": "/images/transformations/gallery-3.jpg",
+      "alt": "Party glam close-up",
+      "label": "Party Glam",
+      "category": "Party"
+    },
+    {
+      "id": "gallery-4",
+      "src": "/images/transformations/gallery-4.jpg",
+      "alt": "Teal mirror dress side smile",
+      "label": "Evening Elegance",
+      "category": "Party"
+    },
+    {
+      "id": "gallery-5",
+      "src": "/images/transformations/gallery-5.jpg",
+      "alt": "Red lehenga bride with gold jewellery",
+      "label": "Classic Red",
+      "category": "Bridal"
+    },
+    {
+      "id": "gallery-6",
+      "src": "/images/transformations/gallery-6.jpg",
+      "alt": "Pink saree bride with maathapatti",
+      "label": "Pink Glow",
+      "category": "Bridal"
+    },
+    {
+      "id": "gallery-7",
+      "src": "/images/transformations/gallery-7.jpg",
+      "alt": "Red saree bride sitting on stairs",
+      "label": "Royal Red",
+      "category": "Bridal"
+    }
+  ]
+}
