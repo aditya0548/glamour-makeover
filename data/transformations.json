@@ -1,0 +1,82 @@
+{
+  "flipCards": [
+    {
+      "id": 1,
+      "category": "Bridal",
+      "label": "Bridal Glow",
+      "beforeImg": "/images/transformations/before-1.jpg",
+      "afterImg": "/images/transformations/after-1.jpg",
+      "beforeAlt": "Client before bridal makeup - natural face",
+      "afterAlt": "Client after bridal makeup - pink teal saree with heavy gold jewellery"
+    },
+    {
+      "id": 2,
+      "category": "Traditional",
+      "label": "Traditional Elegance",
+      "beforeImg": "/images/transformations/before-2.jpg",
+      "afterImg": "/images/transformations/after-2.jpg",
+      "beforeAlt": "Client before makeup - natural curly hair",
+      "afterAlt": "Client after traditional makeup - green red saree outdoor"
+    },
+    {
+      "id": 3,
+      "category": "Bridal",
+      "label": "Radiant Bride",
+      "beforeImg": "/images/transformations/before-3.jpg",
+      "afterImg": "/images/transformations/after-3.jpg",
+      "beforeAlt": "Client before makeup - natural look yellow kurti",
+      "afterAlt": "Client after bridal makeup - teal saree with mehndi"
+    }
+  ],
+  "galleryPhotos": [
+    {
+      "id": 4,
+      "category": "Traditional",
+      "label": "Golden Joy",
+      "img": "/images/transformations/gallery-1.jpg",
+      "alt": "Client in green red saree laughing joyfully outdoors"
+    },
+    {
+      "id": 5,
+      "category": "Bridal",
+      "label": "Teal Dream",
+      "img": "/images/transformations/gallery-2.jpg",
+      "alt": "Bride in teal saree side pose with mehndi hands"
+    },
+    {
+      "id": 6,
+      "category": "Party",
+      "label": "Smoky Glam",
+      "img": "/images/transformations/gallery-3.jpg",
+      "alt": "Party makeup - smoky eye glam with teal mirror dress close up"
+    },
+    {
+      "id": 7,
+      "category": "Party",
+      "label": "Party Sparkle",
+      "img": "/images/transformations/gallery-4.jpg",
+      "alt": "Party makeup - glowing side smile with teal mirror dress"
+    },
+    {
+      "id": 8,
+      "category": "Bridal",
+      "label": "Red Lehenga Queen",
+      "img": "/images/transformations/gallery-5.jpg",
+      "alt": "Bride in red lehenga with heavy gold jewellery"
+    },
+    {
+      "id": 9,
+      "category": "Bridal",
+      "label": "Maharashtrian Bride",
+      "img": "/images/transformations/gallery-6.jpg",
+      "alt": "Bride in pink saree with maathapatti - traditional Maharashtrian bridal look"
+    },
+    {
+      "id": 10,
+      "category": "Bridal",
+      "label": "Crimson Queen",
+      "img": "/images/transformations/gallery-7.jpg",
+      "alt": "Bride in red saree sitting gracefully on stairs"
+    }
+  ]
+}
